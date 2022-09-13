@@ -4,9 +4,9 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me pelo email: rodrigo.toledo04@hotmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Rdsxt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Toledo&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Toledo&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
