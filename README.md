@@ -1,6 +1,5 @@
 ### Olá, meu nome é Rodrigo!
 
-- 🔭 Estou na procura de emprego
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me pelo email: rodrigo.toledo04@hotmail.com
 
