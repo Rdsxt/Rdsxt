@@ -1,6 +1,7 @@
 ### Olá, meu nome é Rodrigo!
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Desenvolvedor Front-end 
 - 📫 Contate-me pelo email: rodrigo.toledo04@hotmail.com
 
 <div align="left">
